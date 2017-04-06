@@ -1,0 +1,1 @@
+CFLAGS=-DARRAY_LEN=742 -DFIRST=\"Skye\" -DLAST=\"Rebel\"

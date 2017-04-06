@@ -1,0 +1,4 @@
+void
+prov(void)
+{
+} // prov
